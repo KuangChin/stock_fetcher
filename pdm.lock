@@ -4,8 +4,8 @@
 [metadata]
 groups = ["default"]
 strategy = ["cross_platform"]
-lock_version = "4.4"
-content_hash = "sha256:d2a1a6b0351e216d77f81f2c2bfdff84225058e835f7fd9dae51e16248f95ec7"
+lock_version = "4.4.1"
+content_hash = "sha256:9a5ce04303ea42c25b1dba44a7e8d5a008031754f96a2edcee0d9dad195321e7"
 
 [[package]]
 name = "greenlet"
