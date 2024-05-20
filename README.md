@@ -2,4 +2,6 @@
 
 ''' pip install pdm '''  
 ''' cd src/stock_fetcher '''  
-''' python3 pick.py '''  
+''' pdm add playwright'''  
+''' pdm run playwright install'''  
+''' pdm run pick.py '''  
